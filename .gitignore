@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+
+# Dados sensiveis
+*.json
+!config.example.json
+
+# Relatorios gerados (mantidos no vault)
+reports/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
