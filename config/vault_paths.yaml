@@ -1,0 +1,19 @@
+# LKE Processos Hub - Configuration
+vault:
+  root: /media/peixoto/Portable/inv_sa_02
+  autos: 01 - Linha do Tempo/00 - AUTOS
+  clientes: 01 - Linha do Tempo/01 - Clientes
+  processos: 01 - Linha do Tempo/03 - Processos
+  entrada: 00 - Entrada
+  conhecimento: 02 - Conhecimento
+
+api:
+  comunica_dje: https://comunicaapi.pje.jus.br/api/v1/comunicacao
+
+fabric:
+  pattern: make_dje_report
+  contexto: qualifica_peixoto.md
+  
+output:
+  index_file: INDEX_PROCESSOS.md
+  timestamp_format: "%Y-%m-%dT%H-%M-%S"
