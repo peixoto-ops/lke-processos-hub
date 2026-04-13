@@ -1,12 +1,24 @@
 # Python
 __pycache__/
 *.py[cod]
+*.pyo
 .env
 venv/
+.venv/
 
 # Dados sensiveis
 *.json
 !config.example.json
+secrets/
+
+# Obsidian (configuracoes locais)
+.obsidian/
+.trash/
+
+# Documentos gerados (podem conter dados sensiveis)
+*.pdf
+*.odt
+*.docx
 
 # Relatorios gerados (mantidos no vault)
 reports/
@@ -14,7 +26,21 @@ reports/
 # IDE
 .vscode/
 .idea/
+*.swp
+*.swo
 
 # OS
 .DS_Store
 Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Cache
+.cache/
+*.tmp
+
+# BMad outputs (processamento temporario)
+_bmad/
+_bmad-output/
