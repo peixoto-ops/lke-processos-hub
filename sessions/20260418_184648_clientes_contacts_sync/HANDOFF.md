@@ -81,14 +81,6 @@ Investigar fichas de clientes em vaults Obsidian e cruzar dados com Google Conta
 
 ---
 
-## CONTINUAÇÃO (2026-04-19)
-
-Ver retrospectiva completa em: `RETROSPECTIVA_20260419.md`
-
-**Resumo:** Proposto formulário inteligente com 3 páginas condicionais, validações e skill de triagem. Formulário anterior deletado, necessário criar manualmente.
-
----
-
 ## VAULTS COM .obsidian ENCONTRADOS
 
 ```
