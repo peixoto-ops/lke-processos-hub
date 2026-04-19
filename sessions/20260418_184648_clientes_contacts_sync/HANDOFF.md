@@ -59,6 +59,18 @@ Investigar fichas de clientes em vaults Obsidian e cruzar dados com Google Conta
 
 ---
 
+## MAPA DE EVOLUÇÃO CRIADO
+
+**Local:** `/media/peixoto/Portable/workspace/hermes_lab/2026-04-18--clientes-contacts-sync-mapa/`
+
+**Conteúdo:**
+- `MAPA_EVOLUCAO.md` - Registro centralizado multi-repositório
+- `README.md` - Resumo da pasta
+
+**Commit:** `e2dac5c` em hermes_lab
+
+---
+
 ## PRÓXIMOS PASSOS SUGERIDOS
 
 1. Confirmar cenário escolhido
